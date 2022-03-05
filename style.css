@@ -109,7 +109,7 @@ input[type='text'] {
 
 .single-meal img {
   width: 300px;
-  margin: 15px;
+  margin: 15px auto;
   border: 3px #fff solid;
   border-radius: 8px;
 }
@@ -169,7 +169,12 @@ input[type='text'] {
   }
 
   .meal {
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
+  }
+
+  .single-meal img {
+    width: 250px;
+
   }
 }
